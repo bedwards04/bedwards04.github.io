@@ -58,7 +58,8 @@ body {
 }
 
 #about-div1 {
-    width: 25%;
+    width: 382px;
+    height: 382px;
 }
 
 #about-div1 > img {
@@ -68,7 +69,8 @@ body {
 }
 
 #about-div2 {
-    width: 25%;
+    width: 382px;
+    height: 382px;
     margin-left: -10%;
 }
 
@@ -127,8 +129,6 @@ body {
     margin-top: 100px;
     margin-left: auto;
     margin-right: auto;
-    /* width: 460.8px;
-    height: 244.47; */
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
