@@ -1,5 +1,5 @@
 html {
-    height: 500%;
+    height: 480%;
 }
 
 body {
@@ -94,7 +94,7 @@ body {
 
 #contact-title {
     width: 75%;
-    margin-top: 32vh;
+    margin-top: 33vh;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -116,4 +116,48 @@ body {
     justify-content: space-evenly;
     font-size: 100px;
     margin-top: 25vh;
+}
+
+#basic-calculator {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#calculator-project {
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 460.8px;
+    height: 244.47; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#calculator-project-image {
+    width: 28.8rem;
+    height: 15.28rem;
+}
+
+#calculator-project-text {
+    margin-top: 38px;
+}
+
+#contact-intro {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#contact-icons {
+    display: flex;
+    margin-top: 100px;
+    font-size: 100px;
+}
+
+#github-icon {
+    margin-left: 35%;
+}
+
+#linkedin-icon {
+    margin-left: 15%;
 }
